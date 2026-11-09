@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{t}from"./q-DL7BKf5I.js";import{K as n}from"./q-ChlVZ0DA.js";var r=e({s_98eUP0IFUlY:()=>i}),i=()=>n(`toolbar-simple-example`,null,null,n(t,null,null,n(`span`,null,null,`My Application`,3,null),3,`3M_0`),1,`3M_1`);export{i as s_98eUP0IFUlY,r as t};

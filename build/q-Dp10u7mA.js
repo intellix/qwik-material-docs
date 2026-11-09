@@ -1,0 +1,1 @@
+import{B as e,k as t}from"./q-ChlVZ0DA.js";var n=t(`qwikMaterial/selectConfig`),r=t(`qwikMaterial/selectScrollStrategy`);function i(t){e(n,t?.config??{}),e(r,t?.scrollStrategy??{type:`reposition`})}export{r as n,i as r,n as t};

@@ -1,0 +1,1 @@
+import"./q-DK3Fl9T5.js";import{E as e,K as t,l as n}from"./q-ChlVZ0DA.js";var r=e=>e.alt??``,i=i=>{let a=[`mat-mdc-card-avatar`,i.class].filter(Boolean);return t(`img`,{alt:e(r,[i]),class:a,id:n(i,`id`),src:n(i,`src`)},null,null,3,`CH_0`)};export{i as s_JxSwAL03aNI};

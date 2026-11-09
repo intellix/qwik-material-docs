@@ -1,0 +1,1 @@
+import{A as e,q as t}from"./q-ChlVZ0DA.js";var n=t(e(()=>import(`./q-VO6QibzL.js`).then(e=>e.t),`s_IR4TgDV2iP0`)),r={title:`Guides — qwik-material`};export{n as default,r as head};

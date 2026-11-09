@@ -1,0 +1,1 @@
+import{A as e,k as t}from"./q-ChlVZ0DA.js";var n=e(()=>import(`./q-CdGyuA8f.js`).then(e=>e.t),`s_UmPoHI6J3rU`),r=t(`qwikMaterial/expansionPanelState`),i={expanded:!1,disabled:!1,hideToggle:!1,togglePosition:void 0,headerId:``,contentId:``,setExpanded$:n,headerElRef:{value:void 0},hasEverOpened:{value:!1}};export{i as n,r as t};

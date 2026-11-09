@@ -1,0 +1,1 @@
+import{A as e,q as t}from"./q-ChlVZ0DA.js";var n=t(e(()=>import(`./q-B6IkNFUV.js`).then(e=>e.t),`s_PmGSDBv50dk`)),r={title:`qwik-material — Angular Material for Qwik`,meta:[{name:`description`,content:`Browse qwik-material components, guides, and live examples — a Qwik port of Angular Material.`}]};export{n as default,r as head};

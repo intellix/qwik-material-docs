@@ -1,0 +1,1 @@
+import{A as e,q as t}from"./q-ChlVZ0DA.js";var n=e(()=>import(`./q-BkhKcdCf.js`).then(e=>e.n),`s_FPoS9E5VSAc`),r=[{name:`Mary`},{name:`Shelley`},{name:`Igor`}];function i(e){let t=(typeof e==`string`?e:e?.name??``).toLowerCase();return r.filter(e=>e.name.toLowerCase().includes(t)).map(e=>({value:e,label:e.name}))}var a=t(n);export{i as n,a as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./q-BmnH42RF.js";var t=`radio-overview-example .mat-mdc-radio-button~.mat-mdc-radio-button{margin-left:16px}`;export{e as s_mou54tbEomI,t};

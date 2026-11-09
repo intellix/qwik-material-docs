@@ -1,0 +1,1 @@
+import"./q-DK3Fl9T5.js";import{K as e,b as t,l as n}from"./q-ChlVZ0DA.js";var r=r=>{let i=[`mat-mdc-card-footer`,r.class].filter(Boolean);return e(`mat-card-footer`,{class:i,id:n(r,`id`)},null,e(t,null,null,null,3,`83_0`),1,`83_1`)};export{r as s_RzwONXvgQWg};

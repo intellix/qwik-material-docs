@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{T as t}from"./q-ChlVZ0DA.js";var n=e({s_EXR5MrLETfo:()=>r}),r=({cleanup:e})=>{let n=t._[0],r=t._[1],i=n.value;if(!i)return;let a=()=>{r.value=i.offsetWidth};a();let o=new ResizeObserver(a);o.observe(i),e(()=>o.disconnect())};export{r as s_EXR5MrLETfo,n as t};

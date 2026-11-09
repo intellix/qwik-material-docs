@@ -1,0 +1,1 @@
+import{n as e}from"./q-yXoyRKlZ.js";var t=`tooltip-position-example .example-user-input{margin-right:8px}`;export{e as s_mBiggbH96bA,t};

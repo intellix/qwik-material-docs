@@ -1,0 +1,1 @@
+import{t as e}from"./q-De0OT45P.js";var t=`timepicker-datepicker-integration-example mat-form-field{margin-right:16px}`;export{e as s_5zN0r3P5SEc,t};

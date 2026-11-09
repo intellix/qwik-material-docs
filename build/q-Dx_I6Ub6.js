@@ -1,0 +1,1 @@
+import{t as e}from"./q-CFR895FE.js";function t(e){let{multi:t,selfId:n,openedId:r,currentlyExpanded:i}=e;return t||r===n?!1:i}export{e as s_nOpAPdKQH9M,t};

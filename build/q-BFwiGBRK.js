@@ -1,0 +1,1 @@
+function e(e,...t){return t.length?t.some(t=>e[t]):e.altKey||e.shiftKey||e.ctrlKey||e.metaKey}export{e as t};

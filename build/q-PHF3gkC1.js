@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{T as t}from"./q-ChlVZ0DA.js";import{n,r}from"./q-_cvNRQJ2.js";var i=e({s_5RMc4BZ2src:()=>a}),a=({cleanup:e})=>{let i=t._[0],a=t._[1].value,o=i.value;a&&o&&(r(a,o),e(n(a,o)))};export{a as s_5RMc4BZ2src,i as t};

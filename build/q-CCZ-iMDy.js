@@ -1,0 +1,1 @@
+import{t as e}from"./q-DXkBraRV.js";var t={text:[`mat-mdc-button`],filled:[`mdc-button--unelevated`,`mat-mdc-unelevated-button`],elevated:[`mdc-button--raised`,`mat-mdc-raised-button`],outlined:[`mdc-button--outlined`,`mat-mdc-outlined-button`],tonal:[`mat-tonal-button`]};export{e as s_KT20b9fRM0U,t};

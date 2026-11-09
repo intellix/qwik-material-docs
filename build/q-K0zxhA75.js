@@ -1,0 +1,1 @@
+import{B as e,k as t}from"./q-ChlVZ0DA.js";var n=t(`qwikMaterial/snackBarData`),r=t(`qwikMaterial/snackBarDefaultOptions`);function i(t){e(r,t??{})}var a=t(`qwikMaterial/snackBarRef`);export{i,r as n,a as r,n as t};

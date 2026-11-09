@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{K as t}from"./q-ChlVZ0DA.js";var n=e({s_BKVsGR0Bl54:()=>r}),r=()=>t(`span`,null,{class:`mat-focus-indicator`},null,3,`JF_0`);export{r as s_BKVsGR0Bl54,n as t};

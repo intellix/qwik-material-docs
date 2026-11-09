@@ -1,0 +1,1 @@
+import{t as e}from"./q-DFP7YdkL.js";var t=`checkbox-overview-example .example-section{margin:12px 0}checkbox-overview-example .example-margin{margin:0 12px}checkbox-overview-example ul{list-style-type:none;margin-top:4px}`;export{e as s_yzWt7tGSQzE,t};

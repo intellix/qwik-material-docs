@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{t}from"./q-DYsqPuQR.js";import{t as n}from"./q-DG-Zawfo.js";import{B as r}from"./q-ChlVZ0DA.js";var i=e({s_xbxZPocB0JU:()=>a}),a=e=>(r(t,e.id),n(e.content));export{a as s_xbxZPocB0JU,i as t};

@@ -1,0 +1,1 @@
+import{A as e,q as t}from"./q-ChlVZ0DA.js";var n=e(()=>import(`./q-CgXbLOYE.js`),`s_eHwSKtwDU1Y`);function r(e,t){return Math.min(t-1,Math.max(e||0,0))}var i=t(n);export{r as n,i as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{T as t}from"./q-ChlVZ0DA.js";var n=e({s_dmLN0TLLCok:()=>r}),r=({cleanup:e})=>{let n=t._[0],r=t._[1].value;n?.registerTitleId$(r),e(()=>n?.unregisterTitleId$(r))};export{r as s_dmLN0TLLCok,n as t};

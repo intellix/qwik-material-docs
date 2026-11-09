@@ -1,0 +1,1 @@
+import"./q-DK3Fl9T5.js";import{D as e,K as t,b as n,n as r,x as i}from"./q-ChlVZ0DA.js";import{i as a}from"./q-DHfkFZTD.js";import{t as o}from"./q-gq6PCfnl.js";var s=s=>{let c=o({type:s.type,disabled:s.disabled}),l=a(c.hostProps,{class:s.class});return e(`button`,{...r(l)},i(l),t(n,null,null,null,3,`sV_0`),0,`sV_1`)};export{s as s_uhS7UC0W8MI};

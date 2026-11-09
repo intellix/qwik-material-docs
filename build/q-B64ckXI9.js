@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{T as t}from"./q-ChlVZ0DA.js";var n=e({s_xV4Qb5Fs9Y0:()=>r}),r=()=>{let e=t._[0],n=t._[1],r=e.value;r&&(n.cachedWidth=r.offsetWidth,n.cachedLeft=r.getBoundingClientRect().left)};export{r as s_xV4Qb5Fs9Y0,n as t};

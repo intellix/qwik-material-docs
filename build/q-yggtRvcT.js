@@ -1,0 +1,1 @@
+import{t as e}from"./q-Kj1h-jhH.js";var t=`badge-overview-example{display:flex;flex-direction:column;align-items:flex-start}badge-overview-example .demo-section+.demo-section{margin-top:16px}`;export{e as s_HX6tu60k0Zo,t};

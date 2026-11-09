@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import"./q-BNC0vpt1.js";import{t}from"./q-BxbWsSOo.js";import{K as n}from"./q-ChlVZ0DA.js";var r=e({s_5nUe9Yb1ytU:()=>i}),i=()=>n(`paginator-overview-example`,null,null,n(t,null,{length:100,pageSize:10,pageSizeOptions:[5,10,25,100],"aria-label":`Select page`},null,3,`YD_0`),1,`YD_1`);export{i as s_5nUe9Yb1ytU,r as t};

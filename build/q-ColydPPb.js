@@ -1,0 +1,1 @@
+import{n as e}from"./q-X1hqaPPA.js";var t=`tooltip-manual-example .example-action-button{margin-top:16px}`;export{e as s_2C8tK1ImsP4,t};

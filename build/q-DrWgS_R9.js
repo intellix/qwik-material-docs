@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{T as t}from"./q-ChlVZ0DA.js";var n=e({s_OHImDwCks7Q:()=>r}),r=()=>{let e=t._[0];t._[1].autoFocusActiveCell&&(e.value=`mouse`)};export{r as s_OHImDwCks7Q,n as t};

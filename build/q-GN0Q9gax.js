@@ -1,0 +1,1 @@
+import{k as e}from"./q-ChlVZ0DA.js";var t=e(`qwikMaterial/dialogData`),n=e(`qwikMaterial/dialogDefaultOptions`),r=e(`qwikMaterial/dialogScrollStrategy`),i=e(`qwikMaterial/dialogRef`),a=e(`qwikMaterial/dialogContainerApi`),o=e(`qwikMaterial/animationsDisabled`);export{i as a,n as i,a as n,r as o,t as r,o as t};

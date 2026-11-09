@@ -1,0 +1,1 @@
+import{B as e,k as t}from"./q-ChlVZ0DA.js";var n=`material-icons mat-ligature-font`,r=t(`qwikMaterial/iconConfig`);function i(t){e(r,t??{})}export{n,i as r,r as t};

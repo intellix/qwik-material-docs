@@ -1,0 +1,1 @@
+import{t as e}from"./q-CK-KyQt1.js";var t=`card-overview-example .example-card{max-width:400px}card-overview-example .example-header-image{background-image:url(https://material.angular.dev/assets/img/examples/shiba1.jpg);background-size:cover}`;export{e as s_koiRSv2WsFU,t};

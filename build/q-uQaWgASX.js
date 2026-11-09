@@ -1,0 +1,1 @@
+import{t as e}from"./q-DH5QFs8U.js";var t=`chips-input-example .example-chip-list{width:100%}`;export{e as s_gXnqAdyW0dE,t};

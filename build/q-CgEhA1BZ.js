@@ -1,0 +1,1 @@
+import{B as e,k as t}from"./q-ChlVZ0DA.js";var n=t(`qwikMaterial/formFieldConfig`),r={appearance:`fill`,color:`primary`,hideRequiredMarker:!1,floatLabel:`auto`,subscriptSizing:`fixed`};function i(t){e(n,t??{})}export{r as n,i as r,n as t};

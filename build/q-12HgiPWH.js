@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{t}from"./q-tEImRFJ2.js";import{K as n}from"./q-ChlVZ0DA.js";var r=e({s_Vh2aIXT9WY0:()=>i}),i=()=>n(`progress-spinner-overview-example`,null,null,n(t,null,null,null,3,`3d_0`),1,`3d_1`);export{i as s_Vh2aIXT9WY0,r as t};

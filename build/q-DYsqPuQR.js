@@ -1,0 +1,1 @@
+import{A as e,M as t,k as n,q as r}from"./q-ChlVZ0DA.js";var i=e(()=>import(`./q-3eGClWWg.js`).then(e=>e.t),`s_xbxZPocB0JU`),a=n(`qwikMaterial/assignedId`),o=r(i),s=Object.freeze({});function c(){let e=t(a,s);return e===s?void 0:e}export{o as n,c as r,a as t};

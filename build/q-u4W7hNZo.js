@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{K as t}from"./q-ChlVZ0DA.js";var n=e({s_8f68Be21Fio:()=>r}),r=()=>t(`span`,null,{class:`mat-mdc-button-touch-target`},null,3,`Mz_0`);export{r as s_8f68Be21Fio,n as t};

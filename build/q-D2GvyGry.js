@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{K as t,b as n,l as r}from"./q-ChlVZ0DA.js";var i=e({s_60C3n9Ql0nI:()=>a}),a=e=>t(`span`,{class:r(e,`class`),id:r(e,`id`)},{mattextprefix:``},t(n,null,null,null,3,`c6_2`),1,`c6_3`);export{a as s_60C3n9Ql0nI,i as t};

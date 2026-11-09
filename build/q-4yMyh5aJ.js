@@ -1,0 +1,1 @@
+var e=()=>globalThis.process?.getBuiltinModule?.(`node:async_hooks`)?.AsyncLocalStorage;export{e as t};

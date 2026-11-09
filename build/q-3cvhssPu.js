@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{K as t,b as n,l as r}from"./q-ChlVZ0DA.js";var i=e({s_EXTfWPyOduE:()=>a}),a=e=>{let i=[`mat-mdc-list-item-meta`,`mdc-list-item__end`,e.class].filter(Boolean);return t(`div`,{class:i,id:r(e,`id`),style:r(e,`style`)},null,t(n,null,null,null,3,`Qi_15`),1,`Qi_16`)};export{a as s_EXTfWPyOduE,i as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{o as t}from"./q-BnH4lS6r.js";var n=e({s_hoZr9O26Irg:()=>r}),r=(e,n)=>{t(n.closest(`[q\\:manifest-hash]`)?.getAttribute(`q:manifest-hash`)||void 0)};export{r as s_hoZr9O26Irg,n as t};

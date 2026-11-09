@@ -1,0 +1,1 @@
+import{n as e}from"./q-CvLmYIw7.js";var t=`slider-range-example mat-slider.mat-mdc-slider{width:300px}`;export{e as s_mZWN5Mz7eKo,t};

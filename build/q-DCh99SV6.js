@@ -1,0 +1,1 @@
+import{t as e}from"./q-DGPjj_U5.js";var t=`form-field-hint-example .example-container mat-form-field+mat-form-field{margin-left:8px}`;export{e as s_ti3VOErDmRc,t};

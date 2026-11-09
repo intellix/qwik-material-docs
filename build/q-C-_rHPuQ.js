@@ -1,0 +1,1 @@
+import{A as e,k as t}from"./q-ChlVZ0DA.js";var n=e(()=>import(`./q-Crj-sr0L.js`).then(e=>e.n),`s_2GQ2xmz07jc`),r=e(()=>import(`./q-Crj-sr0L.js`).then(e=>e.t),`s_dqyG40HnTeI`),i=t(`qwikMaterial/radioGroupState`),a={value:void 0,name:``,disabled:!1,required:!1,disabledInteractive:!1,labelPosition:`after`,color:void 0,onChange$:r,onTouched$:n,standalone:!0};export{a as n,i as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import"./q-ClcdybRg.js";import{t}from"./q-BjduuD4I.js";import{K as n}from"./q-ChlVZ0DA.js";var r=e({s_ysdkEc0NY60:()=>i}),i=()=>n(`progress-bar-buffer-example`,null,null,n(t,null,{mode:`buffer`},null,3,`7O_0`),1,`7O_1`);export{i as s_ysdkEc0NY60,r as t};

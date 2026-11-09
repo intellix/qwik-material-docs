@@ -1,0 +1,1 @@
+import{t as e}from"./q-b3x0LY0R.js";var t=`autocomplete-filter-example .example-form{min-width:150px;max-width:500px;width:100%}autocomplete-filter-example .example-full-width{width:100%}`;export{e as s_ChVYK6YLhxw,t};

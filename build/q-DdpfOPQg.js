@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{T as t}from"./q-ChlVZ0DA.js";var n=e({s_yeGoNKLQPlI:()=>r}),r=()=>{let e=t._[0],n=t._[1];if(e.value)return;let r=setTimeout(()=>{n.value=!0},300);return()=>clearTimeout(r)};export{r as s_yeGoNKLQPlI,n as t};

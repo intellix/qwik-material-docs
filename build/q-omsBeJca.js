@@ -1,0 +1,1 @@
+import{t as e}from"./q-DNQDAmt0.js";var t=`select-custom-trigger-example .example-additional-selection{opacity:.75;font-size:.75em;line-height:1}`;export{e as s_CG07X1lnEBo,t};

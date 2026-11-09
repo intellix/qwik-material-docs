@@ -1,0 +1,1 @@
+import{t as e}from"./q-qGjNZUOT.js";import{D as t,K as n,l as r}from"./q-ChlVZ0DA.js";var i=i=>n(e,null,{config:r(i,`config`),matDialogRef:r(i,`matDialogRef`)},t(i.ContentComponent,{...i.contentProps},{class:`mat-mdc-dialog-component-host`},null,0,`Gt_0`),1,`Gt_1`);export{i as t};

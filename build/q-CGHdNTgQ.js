@@ -1,0 +1,1 @@
+import{t as e}from"./q-qejA0LEh.js";var t=`autocomplete-require-selection-example .example-form{min-width:150px;max-width:500px;width:100%;margin-top:16px}autocomplete-require-selection-example .example-full-width{width:100%}`;export{e as s_tpHk0ma8swQ,t};

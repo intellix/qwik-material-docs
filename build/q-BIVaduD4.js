@@ -1,0 +1,1 @@
+import{t as e}from"./q--rZiZjiu.js";var t=`snack-bar-annotated-component-example-snack{display:flex}snack-bar-annotated-component-example-snack .example-pizza-party{color:#ff69b4}`;export{e as s_xm5qKkILkEE,t};

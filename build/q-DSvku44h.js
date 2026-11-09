@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{T as t}from"./q-ChlVZ0DA.js";var n=e({s_gcQhNzimUAg:()=>r}),r=()=>{t._[0].value?.querySelector(`mat-chip.mat-mdc-chip-disabled`)?.setAttribute(`disabled`,``)};export{r as s_gcQhNzimUAg,n as t};

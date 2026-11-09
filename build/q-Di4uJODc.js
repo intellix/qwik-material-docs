@@ -1,0 +1,1 @@
+import{M as e,k as t}from"./q-ChlVZ0DA.js";function n(){let e=0;return{getId(t){return`${t}${e++}`}}}var r=t(`qwikCdk/idGeneratorCounter`),i={value:0};function a(){let t=e(r,i);return{getId(e){return`${e}${t.value++}`}}}export{n,a as r,r as t};

@@ -1,0 +1,1 @@
+import{y as e}from"./q-ChlVZ0DA.js";function t(e){return typeof e==`object`&&!!e&&`type`in e&&`props`in e&&`children`in e&&`key`in e}function n(r){if(Array.isArray(r))return r.map(n);if(!t(r))return r;let i=n(r.children),a={...r.props,children:i};return e(r.type,a,r.key)}export{n as t};

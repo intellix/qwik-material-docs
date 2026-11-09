@@ -1,0 +1,1 @@
+import"./q-DK3Fl9T5.js";import{K as e,b as t,l as n}from"./q-ChlVZ0DA.js";var r=r=>{let i=[`mat-mdc-card-title-group`,r.class].filter(Boolean);return e(`mat-card-title-group`,{class:i,id:n(r,`id`)},null,[e(`div`,null,null,e(t,null,{name:`text`},null,3,`Ie_0`),1,null),e(t,null,{name:`image`},null,3,`Ie_1`),e(t,null,null,null,3,`Ie_2`)],1,`Ie_3`)};export{r as s_Q6zRggdDgBM};

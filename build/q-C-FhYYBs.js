@@ -1,0 +1,1 @@
+import{t as e}from"./q-Dm26O2-s.js";var t=`snack-bar-overview-example mat-form-field{margin-right:12px}`;export{e as s_xF9PaFVW0Q4,t};

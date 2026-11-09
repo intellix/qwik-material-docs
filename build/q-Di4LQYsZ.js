@@ -1,0 +1,1 @@
+import{t as e}from"./q-BHlAU8FX.js";import{D as t,K as n,l as r}from"./q-ChlVZ0DA.js";var i=i=>n(e,null,{config:r(i,`config`),snackBarRef:r(i,`snackBarRef`)},t(i.ContentComponent,{...i.contentProps},null,null,0,`ew_0`),1,`ew_1`);export{i as t};

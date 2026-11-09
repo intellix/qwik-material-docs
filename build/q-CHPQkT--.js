@@ -1,0 +1,1 @@
+function e(e,t){return e-t>=5}function t(e,t){return e-t||0}function n(e,t){return Math.max(0,Math.min(t,e))}function r(e,t){return(e===`before`?-1:1)*t/3}function i(e){return Math.round(-e)||0}export{i as a,r as i,t as n,e as r,n as t};

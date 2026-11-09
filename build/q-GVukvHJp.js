@@ -1,0 +1,1 @@
+import{t as e}from"./q-Ridma6WQ.js";var t=`chips-autocomplete-example .example-chip-list{width:100%}`;export{e as s_G1z1aUFrj3k,t};

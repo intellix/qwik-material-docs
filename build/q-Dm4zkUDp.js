@@ -1,0 +1,1 @@
+import{t as e}from"./q-5nUaYpIp.js";var t=`form-field-error-example .example-container mat-form-field+mat-form-field{margin-left:8px}`;export{e as s_VZCqMsUalGg,t};

@@ -1,0 +1,1 @@
+import{K as e}from"./q-ChlVZ0DA.js";function t(e){return e?e.length>0:!1}function n(n){return e(`mat-menu`,{class:t(n.panelClass)?``:void 0},null,null,3,`Zs_0`)}function r(e){return{...e,__matMenu:!0}}export{n,r as t};

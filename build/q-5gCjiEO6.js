@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{K as t}from"./q-ChlVZ0DA.js";var n=e({s_TA9ry5byLls:()=>r}),r=e=>(e.picker._actionsContent.value=e.actions,t(`mat-date-range-picker`,null,null,null,3,`qG_1`));export{r as s_TA9ry5byLls,n as t};

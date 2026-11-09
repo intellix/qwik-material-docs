@@ -1,0 +1,1 @@
+import{A as e,M as t,k as n,q as r}from"./q-ChlVZ0DA.js";var i=e(()=>import(`./q-e9f3qtBU.js`).then(e=>e.t),`s_KHzeyf2oq4I`),a=n(`qwikMaterial/form`),o={submitted:!1};function s(){return t(a,o)}var c=r(i);export{c as n,s as r,a as t};

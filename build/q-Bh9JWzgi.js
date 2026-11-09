@@ -1,0 +1,1 @@
+import{k as e}from"./q-ChlVZ0DA.js";var t=e(`qwikMaterial/listBaseState`),n={isNonInteractive:!0,disableRipple:!1};export{n,t};

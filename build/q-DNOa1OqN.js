@@ -1,0 +1,1 @@
+import{t as e}from"./q-BvYrhCF2.js";var t=`toolbar-overview-example .example-spacer{flex:1 1 auto}`;export{e as s_8yMiTo2F3yU,t};

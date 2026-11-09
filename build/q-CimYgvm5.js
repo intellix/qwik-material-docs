@@ -1,0 +1,1 @@
+import{A as e,q as t}from"./q-ChlVZ0DA.js";var n=e(()=>import(`./q-BYTMNujf.js`).then(e=>e.n),`s_nwpJxTRobrE`),r=[`Champs-Élysées`,`Lombard Street`,`Abbey Road`,`Fifth Avenue`];function i(e){return e.toLowerCase().replace(/\s/g,``)}function a(e){let t=i(e||``);return r.filter(e=>i(e).includes(t)).map(e=>({value:e,label:e}))}var o=t(n);export{a as n,o as t};

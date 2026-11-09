@@ -1,0 +1,1 @@
+import{B as e,k as t}from"./q-ChlVZ0DA.js";var n={separatorKeys:[`Enter`],hideSingleSelectionIndicator:!1,inputDisabledInteractive:!1},r=t(`qwikMaterial/chipsConfig`);function i(t){e(r,t??{})}export{n,i as r,r as t};

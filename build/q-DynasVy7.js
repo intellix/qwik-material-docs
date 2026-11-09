@@ -1,0 +1,1 @@
+import{t as e}from"./q-CHKib8gX.js";var t=`grid-list-overview-example mat-grid-tile{background:#add8e6}`;export{e as s_wNDK1oAetNs,t};

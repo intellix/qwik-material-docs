@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{T as t}from"./q-ChlVZ0DA.js";var n=e({s_yG0ssSJ6fHM:()=>r}),r=({cleanup:e})=>{let n=t._[0];n?.incrementActionSectionCount$(),e(()=>n?.decrementActionSectionCount$())};export{r as s_yG0ssSJ6fHM,n as t};

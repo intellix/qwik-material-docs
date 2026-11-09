@@ -1,0 +1,1 @@
+import{B as e,k as t}from"./q-ChlVZ0DA.js";var n={overlapTrigger:!1,xPosition:`after`,yPosition:`below`,backdropClass:`cdk-overlay-transparent-backdrop`},r=t(`qwikMaterial/menuDefaultOptions`),i=t(`qwikMaterial/menuScrollStrategy`);function a(t){e(r,t?.defaults??{}),e(i,t?.scrollStrategy??{type:`reposition`,scrollThrottle:20})}export{a as i,n,i as r,r as t};

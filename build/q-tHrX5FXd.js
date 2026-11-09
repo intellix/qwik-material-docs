@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{T as t}from"./q-ChlVZ0DA.js";var n=e({s_6i0Jq5q8JFg:()=>r}),r=e=>{let n=t._[0];if(!n.submitted)return n.submit(e)};export{r as s_6i0Jq5q8JFg,n as t};

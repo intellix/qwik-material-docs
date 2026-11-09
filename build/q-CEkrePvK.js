@@ -1,0 +1,1 @@
+import{A as e,q as t}from"./q-ChlVZ0DA.js";var n=e(()=>import(`./q-CeYmWy5w.js`),`s_ps45uohCdj4`);function r(e,t,n,r){return(e?!(Array.isArray(t)&&t.length):t==null||t===``)?``:e?(Array.isArray(t)?t:[]).map(e=>n.find(t=>r(t.value,e))?.label??``).filter(Boolean).join(`, `):n.find(e=>r(e.value,t))?.label??``}var i=t(n);export{r as n,i as t};

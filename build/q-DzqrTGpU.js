@@ -1,0 +1,1 @@
+import"./q-Dv3Woe3D.js";import{B as e}from"./q-ChlVZ0DA.js";import{i as t,o as n}from"./q-GN0Q9gax.js";import"./q-CAJC_hwK.js";function r(r){e(t,r?.defaults??{}),e(n,r?.scrollStrategy??`block`)}export{r as t};

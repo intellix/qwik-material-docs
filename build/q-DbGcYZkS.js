@@ -1,0 +1,1 @@
+function e(e,t){return t===0?null:e===`Home`?0:t-1}function t(e,t,n){return e===0?null:t<0?n===1?0:e-1:((t+n)%e+e)%e}function n(n,r,i){switch(n){case`Home`:return e(`Home`,r);case`End`:return e(`End`,r);case`ArrowRight`:return t(r,i,1);case`ArrowLeft`:return t(r,i,-1)}}function r(e,t,n){return e!==null&&e!==t&&!n}export{r as n,n as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./q-xOXoLl_k.js";function t(e){if(e==null)return null;if(typeof e==`number`)return Number.isFinite(e)?e:null;let t=e.trim().match(/^(\d+(?:\.\d+)?)(ms|s)?$/);if(!t)return null;let n=parseFloat(t[1]);return Number.isFinite(n)?t[2]===`s`?n*1e3:n:null}export{e as s_bzc11xbcurk,t};

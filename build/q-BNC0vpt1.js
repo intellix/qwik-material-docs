@@ -1,0 +1,1 @@
+import{n as e,r as t,t as n}from"./q-C2mN98Ff.js";import{B as r}from"./q-ChlVZ0DA.js";function i(i){r(t,i?.config??{}),r(e,i?.intl??n)}export{i as t};

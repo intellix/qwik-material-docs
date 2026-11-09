@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{T as t}from"./q-ChlVZ0DA.js";var n=e({s_3FjmwUgOFNo:()=>r}),r=({cleanup:e})=>{let n=t._[0],r=t._[1],i=setTimeout(()=>{r.value=!0;let e=n.value;e&&e.classList.add(`mat-drawer-transition`)},200);e(()=>clearTimeout(i))};export{r as s_3FjmwUgOFNo,n as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{t}from"./q-B0BpBfW3.js";import{D as n,K as r,b as i,n as a,x as o}from"./q-ChlVZ0DA.js";var s=e({s_srKZtZwElpM:()=>c}),c=e=>{let s=[`mat-mdc-snack-bar-action`,`mdc-snackbar__action`,e.class].filter(Boolean);return n(t,{...a(e),...o(e),class:s},null,r(i,null,null,null,3,`fJ_8`),0,`fJ_9`)};export{c as s_srKZtZwElpM,s as t};

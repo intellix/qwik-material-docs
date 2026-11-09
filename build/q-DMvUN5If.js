@@ -1,0 +1,1 @@
+import{t as e}from"./q-CaUbW3nj.js";var t=`datepicker-inline-calendar-example .demo-inline-calendar-card{width:300px}`;export{e as s_q5JOfBZBARk,t};

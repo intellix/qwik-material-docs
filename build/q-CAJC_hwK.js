@@ -1,0 +1,1 @@
+import{B as e,M as t,O as n}from"./q-ChlVZ0DA.js";import{t as r}from"./q-GN0Q9gax.js";var i=Object.freeze({value:!1});function a(){return t(r,i)}function o(t){let i=n(t??!1);return e(r,i),i}export{o as n,a as t};

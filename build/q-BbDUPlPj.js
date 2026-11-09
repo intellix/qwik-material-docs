@@ -1,0 +1,1 @@
+import{t as e}from"./q-CinEZwij.js";var t=`form-field-overview-example{display:flex;flex-direction:column;align-items:flex-start}`;export{e as s_2dW0M3SQ2fE,t};

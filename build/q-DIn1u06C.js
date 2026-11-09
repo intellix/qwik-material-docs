@@ -1,0 +1,1 @@
+import{A as e,q as t}from"./q-ChlVZ0DA.js";var n=t(e(()=>import(`./q-ooXGrFeJ.js`).then(e=>e.t),`s_vYCTA71v7ZE`)),r={title:`CDK — qwik-material`};export{n as default,r as head};

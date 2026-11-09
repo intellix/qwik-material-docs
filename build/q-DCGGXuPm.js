@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import"./q-YYGQP6rj.js";import{t}from"./q-0Rt_Fs1P.js";import{K as n}from"./q-ChlVZ0DA.js";var r=e({s_9Kmuwwqppc4:()=>i}),i=()=>n(`icon-overview-example`,null,null,n(t,null,{"aria-hidden":!1,"aria-label":`Example home icon`,fontIcon:`home`},null,3,`ww_0`),1,`ww_1`);export{i as s_9Kmuwwqppc4,r as t};

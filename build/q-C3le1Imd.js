@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{E as t,K as n,l as r}from"./q-ChlVZ0DA.js";var i=e({s_rAi0iDJ8vk0:()=>o}),a=e=>e.alt??``,o=e=>{let i=[`mat-mdc-card-md-image`,`mdc-card__media`,e.class].filter(Boolean);return n(`img`,{alt:t(a,[e]),class:i,id:r(e,`id`),src:r(e,`src`)},null,null,3,`ZN_2`)};export{o as s_rAi0iDJ8vk0,i as t};

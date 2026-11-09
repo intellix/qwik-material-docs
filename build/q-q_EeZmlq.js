@@ -1,0 +1,1 @@
+import{t as e}from"./q-DD6baMUG.js";var t=`.example-panel-red.mat-mdc-select-panel{background:#ff000080}.example-panel-green.mat-mdc-select-panel{background:#00ff0080}.example-panel-blue.mat-mdc-select-panel{background:#0000ff80}`;export{e as s_fHEDLNKpYys,t};

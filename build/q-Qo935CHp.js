@@ -1,0 +1,1 @@
+import"./q-DK3Fl9T5.js";import{E as e,K as t,b as n,l as r}from"./q-ChlVZ0DA.js";var i=e=>e.alt??``,a=a=>{let o=a.as??`div`,s=[`mat-grid-avatar`,a.class].filter(Boolean);return o===`img`?t(`img`,{alt:e(i,[a]),class:s,id:r(a,`id`),src:r(a,`src`)},null,null,3,`8V_0`):t(`div`,{class:s,id:r(a,`id`)},null,t(n,null,null,null,3,`8V_1`),1,`8V_2`)};export{a as s_H1mwJ9ur0NY};

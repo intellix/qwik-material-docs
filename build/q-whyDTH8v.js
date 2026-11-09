@@ -1,0 +1,1 @@
+import{A as e,k as t}from"./q-ChlVZ0DA.js";var n=e(()=>import(`./q-Pahdntqt.js`).then(e=>e.t),`s_CR1wouVfk8I`),r=t(`qwikMaterial/buttonToggleGroupState`),i={mode:`single`,value:void 0,values:[],disabled:!1,disableRipple:!1,hideSingleSelectionIndicator:!1,hideMultipleSelectionIndicator:!1,name:``,onToggle:n,standalone:!0,fallbackTabIndexClaimed:{value:!0}};export{i as n,r as t};

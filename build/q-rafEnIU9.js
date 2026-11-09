@@ -1,0 +1,1 @@
+import{n as e}from"./q-BTTcm6QS.js";var t=`tooltip-delay-example .example-user-input{margin:0 8px 8px 0}`;export{e as s_TM1EkyuzIEw,t};

@@ -1,0 +1,1 @@
+import{A as e,q as t}from"./q-ChlVZ0DA.js";import{n,t as r}from"./q-Xth1abbB.js";var i=e(()=>import(`./q-DsZoBi7x.js`).then(e=>e.t),`s_abVB1zgJRcE`),a=r;function o(e){return e&&e!==a.locale?new n(e):a}var s=t(i);export{a as n,o as r,s as t};

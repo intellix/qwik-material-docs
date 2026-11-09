@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{K as t}from"./q-ChlVZ0DA.js";var n=e({s_oE45q4thv7U:()=>r}),r=e=>e.initialized.value?t(`span`,null,{class:`mat-ripple mat-mdc-button-ripple`},null,3,`rn_0`):null;export{r as s_oE45q4thv7U,n as t};

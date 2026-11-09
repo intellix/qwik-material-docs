@@ -1,0 +1,1 @@
+function e(e){return e?{DISABLED:`true`}:{}}export{e as t};

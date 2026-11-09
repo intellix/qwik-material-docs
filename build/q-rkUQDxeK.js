@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import"./q-ClcdybRg.js";import{t}from"./q-BjduuD4I.js";import{K as n}from"./q-ChlVZ0DA.js";var r=e({s_sskm0gDoHkI:()=>i}),i=()=>n(`progress-bar-determinate-example`,null,null,n(t,null,{mode:`determinate`,value:40},null,3,`ND_0`),1,`ND_1`);export{i as s_sskm0gDoHkI,r as t};

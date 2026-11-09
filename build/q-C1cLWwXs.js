@@ -1,0 +1,1 @@
+function e(e){return e.startsWith(`/`)&&!e.startsWith(`//`)?`/qwik-material-docs/`+e.slice(1):e}export{e as t};

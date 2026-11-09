@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{K as t,b as n}from"./q-ChlVZ0DA.js";var r=e({s_u0LCGnIDfAU:()=>i}),i=e=>{let r=[`mat-mdc-dialog-content`,`mdc-dialog__content`,...e.class==null?[]:Array.isArray(e.class)?e.class:[e.class]];return t(`mat-dialog-content`,{class:r},null,t(n,null,null,null,3,`eh_0`),1,`eh_1`)};export{i as s_u0LCGnIDfAU,r as t};

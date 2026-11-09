@@ -1,0 +1,1 @@
+import{A as e,q as t}from"./q-ChlVZ0DA.js";var n=e(()=>import(`./q-1eHXKZoy.js`).then(e=>e.t),`s_81X0yIjRI7I`);function r(e,t){return e===`number`?`${t+1}`:e===`edit`?`create`:e===`error`?`warning`:e}var i=t(n);export{r as n,i as t};
