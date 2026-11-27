@@ -1,0 +1,1 @@
+import{B as e,k as t}from"./q-ChlVZ0DA.js";var n={showDelay:0,hideDelay:0,touchendHideDelay:1500,touchGestures:`auto`,disableTooltipInteractivity:!1},r=t(`qwikMaterial/tooltipDefaultOptions`);function i(t){e(r,t??{})}export{n,i as r,r as t};

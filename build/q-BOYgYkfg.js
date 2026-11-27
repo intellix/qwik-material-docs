@@ -1,0 +1,1 @@
+import{t as e}from"./q-DH_6upI6.js";var t=`chips-stacked-example .mat-mdc-chip-set{max-width:200px}`;export{e as s_v8gUDZdmvjA,t};

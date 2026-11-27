@@ -1,0 +1,1 @@
+import{t as e}from"./q-CEjyfmAh.js";var t=`input-overview-example .example-form{min-width:150px;max-width:500px;width:100%}input-overview-example .example-full-width{width:100%}`;export{e as s_yjxqyoLEtSk,t};

@@ -1,0 +1,1 @@
+import{B as e,k as t}from"./q-ChlVZ0DA.js";var n={hideSingleSelectionIndicator:!1,hideMultipleSelectionIndicator:!1},r=t(`qwikMaterial/buttonToggleConfig`);function i(t){e(r,t??{})}export{n,i as r,r as t};

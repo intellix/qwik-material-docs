@@ -1,0 +1,1 @@
+import{r as e,t}from"./q-DyGAe6yF.js";import{t as n}from"./q-CEKYXoNi.js";import{B as r,D as i,K as a,l as o}from"./q-ChlVZ0DA.js";var s=s=>(r(t,s.config.data),r(e,s.matBottomSheetRef),a(n,null,{id:o(s,`id`),config:o(s,`config`),matBottomSheetRef:o(s,`matBottomSheetRef`)},i(s.ContentComponent,{...s.contentProps},null,null,0,`Cd_0`),1,`Cd_1`));export{s as t};

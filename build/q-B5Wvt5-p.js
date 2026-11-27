@@ -1,0 +1,1 @@
+import{t as e}from"./q-DGzPVM0G.js";var t=`datepicker-events-example .example-events{height:200px;border:1px solid #555;overflow:auto}`;export{e as s_xmUGG3lniEA,t};

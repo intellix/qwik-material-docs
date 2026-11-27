@@ -1,0 +1,1 @@
+import{A as e,W as t,_ as n}from"./q-ChlVZ0DA.js";var r=e(()=>import(`./q-f3RB3Pad.js`).then(e=>e.n),`s_53tJ3hEtaVA`),i=e(()=>import(`./q-f3RB3Pad.js`).then(e=>e.t),`s_dUmNKLF10U8`);function a(...e){n(i),e.includes(`rich`)?n(r):t(void 0)}export{a as t};

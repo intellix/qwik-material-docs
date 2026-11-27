@@ -1,0 +1,1 @@
+import{t as e}from"./q-DKuZk3sc.js";var t=`dialog-animations-example button{margin-right:8px}`;export{e as s_x77M9Uie8Zk,t};

@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{K as t}from"./q-ChlVZ0DA.js";var n=e({s_SiROqld0l08:()=>r}),r=()=>t(`sidenav-mode-example`,null,null,t(`div`,null,null,`Please open on Stackblitz to see result`,3,null),3,`2d_0`);export{r as s_SiROqld0l08,n as t};

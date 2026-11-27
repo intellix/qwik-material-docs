@@ -1,0 +1,1 @@
+import{t as e}from"./q-CmOQLGKk.js";var t=`button-toggle-appearance-example mat-button-toggle-group{margin-left:12px}`;export{e as s_ZoUPr3Rtbag,t};

@@ -1,0 +1,1 @@
+import{t as e}from"./q-C_AbRtbQ.js";function t(e,t){t&&(t instanceof Element?t.after(e):t.element.appendChild(e))}function n(e,t){return e?t?.getPopoverInsertionPoint?.()??null:null}export{n,e as s_0ICrPwcScow,t};

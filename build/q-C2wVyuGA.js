@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{T as t}from"./q-ChlVZ0DA.js";var n=e({s_KDUV3dFmc5g:()=>r}),r=()=>{let e=t._[0];e.value=[new Date,new Date,new Date]};export{r as s_KDUV3dFmc5g,n as t};

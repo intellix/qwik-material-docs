@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{K as t}from"./q-ChlVZ0DA.js";var n=e({s_5ooOfR38Kmk:()=>r}),r=()=>t(`sidenav-disable-close-example`,null,null,t(`div`,null,null,`Please open on Stackblitz to see result`,3,null),3,`I0_0`);export{r as s_5ooOfR38Kmk,n as t};

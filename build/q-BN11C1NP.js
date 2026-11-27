@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{T as t}from"./q-ChlVZ0DA.js";import{r as n}from"./q-rkLVO12q.js";var r=e({s_I0FUUo9K57g:()=>i}),i=({track:e})=>{let r=t._[0],i=t._[1],a=t._[2],o=t._[3],s=e(()=>o.value),c=e(()=>r.value);if(!n(s,c))return;let l=i.value,u=a.value;l&&u&&u.firstChild!==l&&u.insertBefore(l,u.firstChild)};export{i as s_I0FUUo9K57g,r as t};

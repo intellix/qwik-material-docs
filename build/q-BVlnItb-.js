@@ -1,0 +1,1 @@
+import{A as e,K as t,p as n,q as r}from"./q-ChlVZ0DA.js";var i=e(()=>import(`./q-deb1Ezye.js`).then(e=>e.t),`s_Su3eC6H7RRk`);function a(e){return e?e.length>0:!1}var o=r(i);function s(e){return t(n,null,null,[t(o,null,null,null,3,`Zs_0`),t(`mat-menu`,{class:a(e.panelClass)?``:void 0},null,null,3,null)],1,`Zs_1`)}function c(e){return{...e,__matMenu:!0}}export{s as n,c as t};

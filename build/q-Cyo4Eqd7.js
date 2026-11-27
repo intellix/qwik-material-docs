@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{T as t}from"./q-ChlVZ0DA.js";import{t as n}from"./q-X29hZ6q4.js";var r=e({s_IM4rAfDqfJE:()=>i}),i=e=>{let r=t._[0],i=t._[1];return n(e,{globalOptions:i,animationsDisabled:r.value})};export{i as s_IM4rAfDqfJE,r as t};

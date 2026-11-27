@@ -1,0 +1,1 @@
+import{k as e}from"./q-ChlVZ0DA.js";var t=e(`qwikMaterial/paginatorConfig`),n={itemsPerPageLabel:`Items per page:`,nextPageLabel:`Next page`,previousPageLabel:`Previous page`,firstPageLabel:`First page`,lastPageLabel:`Last page`},r=e(`qwikMaterial/paginatorIntl`);export{r as n,t as r,n as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{T as t}from"./q-ChlVZ0DA.js";import{t as n}from"./q-BxQ4hs6I.js";var r=e({s_i9H5XmoMowQ:()=>i}),i=({cleanup:e})=>{let r=t._[0],{keyboardDispatcher:i,outsideClickDispatcher:a,navigationDispatcher:o}=n(r);e(()=>{i.dispose(),a.dispose(),o.dispose()})};export{i as s_i9H5XmoMowQ,r as t};

@@ -1,0 +1,1 @@
+import{B as e,k as t}from"./q-ChlVZ0DA.js";var n={color:`accent`,clickAction:`check-indeterminate`,disabledInteractive:!1},r=t(`qwikMaterial/checkboxConfig`);function i(t){e(r,t??{})}export{n,i as r,r as t};

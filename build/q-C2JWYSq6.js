@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{K as t}from"./q-ChlVZ0DA.js";var n=e({s_b4apUPuTlHY:()=>r}),r=e=>(e.picker._actionsContent.value=e.actions,t(`mat-datepicker`,null,null,null,3,`qG_0`));export{r as s_b4apUPuTlHY,n as t};

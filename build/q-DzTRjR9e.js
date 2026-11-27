@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";var t=e({s_N6Sx0CI1Wug:()=>n}),n=e=>e>=1e3?Math.round(e/1e3)+`k`:`${e}`;export{n as s_N6Sx0CI1Wug,t};

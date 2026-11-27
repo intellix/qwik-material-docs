@@ -1,0 +1,1 @@
+import{B as e,k as t}from"./q-ChlVZ0DA.js";var n=`touched`,r=t(`qwikMaterial/errorStateMatcher`);function i(e,t){return t===`dirty`?e.invalid&&(e.dirty||e.submitted):e.invalid&&(e.touched||e.submitted)}function a(t){e(r,t??`touched`)}export{a as i,n,i as r,r as t};

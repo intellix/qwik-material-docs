@@ -1,0 +1,1 @@
+import{B as e,k as t}from"./q-ChlVZ0DA.js";var n=t(`qwikMaterial/expansionConfig`);function r(t){e(n,t??{})}export{r as n,n as t};

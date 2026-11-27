@@ -1,0 +1,1 @@
+import{K as e,b as t,l as n}from"./q-ChlVZ0DA.js";import{t as r}from"./q-Cnk3LPHB.js";var i=i=>{r();let a=[`mat-toolbar`,i.color?`mat-${i.color}`:``,i.multipleRows?`mat-toolbar-multiple-rows`:`mat-toolbar-single-row`,i.class].filter(Boolean);return e(`mat-toolbar`,{class:a,id:n(i,`id`),style:n(i,`style`)},null,e(t,null,null,null,3,`hp_0`),1,`hp_1`)};export{i as t};

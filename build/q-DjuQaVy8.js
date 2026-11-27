@@ -1,0 +1,1 @@
+import{B as e,M as t,k as n}from"./q-ChlVZ0DA.js";import{t as r}from"./q-Bc--v_5d.js";var i=n(`qwikMaterial/rippleGlobalOptions`);function a(){return t(i,{})}function o(n){e(i,n??{}),t(r,null)!==null&&e(r,!1)}export{o as n,a as r,i as t};

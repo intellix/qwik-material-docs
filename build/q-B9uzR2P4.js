@@ -1,0 +1,1 @@
+import{A as e,_ as t,q as n}from"./q-ChlVZ0DA.js";var r=e(()=>import(`./q-C5hygKLB.js`).then(e=>e.t),`s_sghdVuy0RmU`);function i(){t(r)}var a=e(()=>import(`./q-Bvr2gUoO.js`).then(e=>e.t),`s_81X0yIjRI7I`);function o(e,t){return e===`number`?`${t+1}`:e===`edit`?`create`:e===`error`?`warning`:e}var s=n(a);export{o as n,i as r,s as t};

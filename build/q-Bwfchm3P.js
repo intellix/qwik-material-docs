@@ -1,0 +1,1 @@
+import{k as e}from"./q-ChlVZ0DA.js";var t=e(`qwikMaterial/tabNavState`),n={focusedLink:{value:void 0},hasTabPanel:!1,tabPanelId:void 0,disableRipple:!1};export{n,t};

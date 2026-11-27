@@ -1,0 +1,1 @@
+import{A as e,O as t,S as n}from"./q-ChlVZ0DA.js";var r=e(()=>import(`./q-D_dEYzas.js`).then(e=>e.n),`s_0yl010G10Kk`),i=e(()=>import(`./q-B_5MXJih.js`),`s_xr1QVu0GK3w`);function a(e,a={}){let o=t(null),s=t(a.enabled??!0),c=t(null);return n(i.w([e,s,a,c,o])),n(r.w([s,o])),{trapInstance:o,enabled:s}}export{a as t};

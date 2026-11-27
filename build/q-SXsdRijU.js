@@ -1,0 +1,1 @@
+import{E as e,K as t}from"./q-ChlVZ0DA.js";var n=e=>[`mat-mdc-button-persistent-ripple`,e.isFab?`mdc-fab__ripple`:`mdc-button__ripple`],r=r=>t(`span`,{class:e(n,[r])},null,null,3,`mR_0`);export{r as t};

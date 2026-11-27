@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import"./q-C5wlLHcw.js";import{t}from"./q-9xlSmYSg.js";var n=e({s_yZGgu5gLzcQ:()=>r}),r=e=>(t(e.variant),`${e.variant}`,null);export{r as s_yZGgu5gLzcQ,n as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./q-BN0aC3YP.js";var t=`button-disabled-interactive-example button{margin-right:8px}`;export{e as s_C70DyqmqBu8,t};

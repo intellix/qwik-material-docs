@@ -1,0 +1,1 @@
+import{t as e}from"./q-tLJDV6NP.js";var t=`chips-template-form-example .example-form-field{width:100%}`;export{e as s_qgPVs9vy0K8,t};

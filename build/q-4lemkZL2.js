@@ -1,0 +1,1 @@
+var e=`__qwikCdkRecentKeydown__`,t=`__qwikCdkRecentPointerModality__`;function n(){return typeof window>`u`?!1:!!window[e]}function r(){typeof window<`u`&&(window[e]=!1)}function i(){if(typeof window>`u`)return null;let e=window[t];return e?e===`touch`?`touch`:`mouse`:null}function a(){typeof window<`u`&&(window[t]=null)}export{n as i,a as n,i as r,r as t};

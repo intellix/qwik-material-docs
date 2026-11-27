@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{T as t}from"./q-ChlVZ0DA.js";import{n,t as r}from"./q-OvwPvPVK.js";var i=e({s_KOKyGVc0ICk:()=>a}),a=()=>{let e=t._[0];return r([n.XSmall,n.Small],t=>{e.value=t.matches})};export{a as s_KOKyGVc0ICk,i as t};

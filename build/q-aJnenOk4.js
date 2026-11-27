@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{K as t,b as n,l as r}from"./q-ChlVZ0DA.js";var i=e({s_2A1WHi2I01s:()=>a}),a=e=>{let i=[`mat-mdc-card-actions`,`mdc-card__actions`,e.align===`end`&&`mat-mdc-card-actions-align-end`,e.class].filter(Boolean);return t(`mat-card-actions`,{class:i,id:r(e,`id`)},null,t(n,null,null,null,3,`g5_0`),1,`g5_1`)};export{a as s_2A1WHi2I01s,i as t};

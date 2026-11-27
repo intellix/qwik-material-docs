@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{T as t}from"./q-ChlVZ0DA.js";import{n,t as r}from"./q-CZaqMma3.js";var i=e({s_OLHCTn7l1wg:()=>a}),a=(e,i)=>{let a=t._[0];return n(a[r[e.type]],e,i)};export{a as s_OLHCTn7l1wg,i as t};

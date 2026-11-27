@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{T as t}from"./q-ChlVZ0DA.js";var n=e({s_0jAYU7o5v2c:()=>r}),r=e=>{let n=t._[0],r=t._[1],i=e.trim();r.value=i?r.value.map(e=>e===n?{name:i}:e):r.value.filter(e=>e!==n)},i=e({s_dLB9XcuqXBM:()=>a}),a=()=>{let e=t._[0],n=t._[1];n.value=n.value.filter(t=>t!==e)};export{n,r as s_0jAYU7o5v2c,a as s_dLB9XcuqXBM,i as t};

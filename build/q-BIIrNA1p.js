@@ -1,0 +1,1 @@
+function e(e){return e.start!=null&&e.end!=null}function t(e,t,n){let{start:r,end:i}=n;return r==null?r=t:i==null&&t&&e.compareDate(t,r)>=0?i=t:(r=t,i=null),{start:r,end:i}}function n(e,t){return t.start&&!t.end&&e?{start:t.start,end:e}:{start:null,end:null}}export{n,t as r,e as t};

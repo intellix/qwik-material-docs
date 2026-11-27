@@ -1,0 +1,1 @@
+import{M as e,k as t}from"./q-ChlVZ0DA.js";var n=t(`qwikMaterial/rippleDelegate`);function r(){return e(n,null)}export{r as n,n as t};

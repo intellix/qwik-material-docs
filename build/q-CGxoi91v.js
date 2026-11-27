@@ -1,0 +1,1 @@
+import{t as e}from"./q-DK3Fl9T5.js";import{K as t,b as n}from"./q-ChlVZ0DA.js";var r=e({s_sTTIvCcTfxU:()=>i}),i=e=>{let r=[`mat-expansion-panel-header-title`,e.class].filter(Boolean);return t(`mat-panel-title`,{class:r},null,t(n,null,null,null,3,`Fw_0`),1,`Fw_1`)};export{i as s_sTTIvCcTfxU,r as t};

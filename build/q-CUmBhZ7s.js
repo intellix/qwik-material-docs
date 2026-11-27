@@ -1,0 +1,1 @@
+import"./q-DK3Fl9T5.js";import{K as e,b as t}from"./q-ChlVZ0DA.js";var n=n=>{let r=[`mat-action-row`,n.class].filter(Boolean);return e(`mat-action-row`,{class:r},null,e(t,null,null,null,3,`r9_0`),1,`r9_1`)};export{n as s_2e9y40GNTPg};

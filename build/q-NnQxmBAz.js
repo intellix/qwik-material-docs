@@ -1,0 +1,1 @@
+import{A as e,K as t,q as n}from"./q-ChlVZ0DA.js";import{r}from"./q-C5wlLHcw.js";var i=n(e(()=>import(`./q-DrtAbqtR.js`).then(e=>e.t),`s_yZGgu5gLzcQ`));function a(e){return r(`button:${e}`)?t(i,{variant:e},null,null,3,`31_0`):null}export{a as n,i as t};

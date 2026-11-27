@@ -1,0 +1,1 @@
+import{K as e}from"./q-ChlVZ0DA.js";var t=()=>e(`span`,null,{class:`mat-focus-indicator`},null,3,`JF_0`),n=()=>e(`span`,null,{class:`mat-mdc-button-touch-target`},null,3,`Mz_0`);export{t as n,n as t};

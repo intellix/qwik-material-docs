@@ -1,0 +1,1 @@
+import"./q-DnFerS29.js";import{i as e,n as t}from"./q-DyGAe6yF.js";import{B as n}from"./q-ChlVZ0DA.js";function r(r){n(t,r?.defaults??{}),n(e,r?.scrollStrategy??`block`)}export{r as t};
